@@ -1,6 +1,6 @@
 # Henrique Dalmagro 👋
 
-### Dsenvolvedor backend
+### Desenvolvedor backend
 
 <div>
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=simpler1ick&count_private=true&show_icons=true&theme=onedark" />
