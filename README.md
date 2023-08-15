@@ -5,7 +5,7 @@
 * 👯 Estou procurando colaborar em projetos abertos/comerciais
 * 🤔 Buscando me aprofundar em tecnologias com NodeJS 
 * 💬 Me pergunte qualquer coisa sobre __Desenvolvimento Web__
-* 📫 Como chegar até mim: Twitter, Instagram
+* 📫 Como chegar até mim: Whatsapp, Instagram
 * 🌐 Visite meu [website](https://simpler1ick.github.io/) para mais informações.
 
 ### Desenvolvedor Full-Stack
