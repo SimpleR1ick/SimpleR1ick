@@ -1,12 +1,16 @@
-# Seja bem vindo(a)!
----
-## Eu sou Henrique Dalmagro
----
-### Desenvolvedor backend
+## Ola! 👋 Eu sou o Henrique
 
-<div>
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=simpler1ick&count_private=true&show_icons=true&theme=onedark" />
-  
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simpler1ick&count_private=true&show_icons=true&theme=onedark&hide=java&layout=compact" />
-</div>
 
+### Meus interesses atualmente
+* 👯 Estou procurando colaborar em projetos abertos/comerciais
+* 🤔 Buscando me aprofundar em tecnologias com NodeJS 
+* 💬 Me pergunte qualquer coisa sobre __Desenvolvimento Web__
+* 📫 Como chegar até mim: Twitter, Instagram
+* 🌐 Visite meu [website](https://simpler1ick.github.io/) para mais informações.
+
+### Desenvolvedor Full-Stack
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=simpler1ick&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=simpler1ick&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=simpler1ick&theme=onedark&hide_border=true&background=FFFFFF00">
+<p>
