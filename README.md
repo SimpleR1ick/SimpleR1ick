@@ -14,3 +14,10 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=simpler1ick&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=simpler1ick&theme=onedark&hide_border=true&background=FFFFFF00">
 <p>
+
+##
+
+<div> 
+  <a href="https://instagram.com/simpler1ick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/simpler1ick/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
